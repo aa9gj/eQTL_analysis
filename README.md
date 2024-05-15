@@ -1,3 +1,10 @@
 # eQTL_analysis
 
-## Purpose: Showcase my ability to conduct eQTL analysis from scratch. This tutorial is based on [Wang et al. 2021](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04307-0) and jknightlab eqtl-intro
+## Purpse: Expression quantitative trait loci (eQTL) identification for a population of 33 healthy canines. 
+
+1) Genotypes preprocessing
+2) Phenotypes preprocessing
+3) Covariates
+4) Running tensorQTL 
+
+
